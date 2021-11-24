@@ -5,4 +5,4 @@ A terrible skid client made by a terrible skid developer.
 - Modules: Cedo (Fan v3 & v4)
 - Modules: danny125 (his client "Peroxide")
 - ClickGUI: HeroCode
-- Lots of other shit: intent.store YouTube channel
+- Lots of other shit: intent.store (their YT tutorials)
